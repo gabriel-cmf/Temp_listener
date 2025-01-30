@@ -1,0 +1,2 @@
+Acesse o diretório bin\Debug\net8.0-windows
+execute Temp_listener_forms.exe

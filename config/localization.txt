@@ -1,0 +1,7 @@
+key,label_name
+"gpu_hotspot","Gpu hostspot: "
+"cpu_core_max","Cpu max temp: "
+"Core Max","Cpu max temp: "
+"GPU Hot Spot","Gpu hostspot: "
+"CPU Core #1","CPU Core #1: "
+"GPU Core","Gpu core: "
